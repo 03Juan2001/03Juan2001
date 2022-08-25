@@ -1,6 +1,6 @@
 Hi My Name is Juan Carlos Avila.
 
-
+[![R.gif](https://i.postimg.cc/pX2Jc5pf/R.gif)](https://postimg.cc/5jRz605y)
 
 |               |           Lunes          |          Martes          |         Miercoles        |          Jueves          |          Viernes         |
 |:-------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|
