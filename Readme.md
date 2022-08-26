@@ -1,5 +1,7 @@
 Hi My Name is Juan Carlos Avila.
 
+[![IMG565.jpg](https://i.postimg.cc/4dzHnGgd/IMG565.jpg)](https://postimg.cc/R6ZZbjq5)
+
 I am a student at the Technological Institute of Tijuana.
 
 I am studying computer systems engineering.
